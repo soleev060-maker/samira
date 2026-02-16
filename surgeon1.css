@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+.aaa{
+    display: inline-block;
+    margin-left: 60px;
+}
+.bbb{
+    display: inline-block;
+    margin-left: 60px;
+}
+.ccc{
+    display: inline-block;
+    margin-left: 60px;
+}
+.ddd{
+    display: inline-block;
+    margin-left: 60px;
+}
+.eee{
+    color: rgb(13, 13, 104);
+}
+.fff{
+    display: inline-block;
+    margin-left: 75px;
+}
+.ggg{
+    margin-left: 35px;
+}
+.yyy {
+    border-radius: 8px;
+    margin: 30px;
+    width: 100px;
+    height: 30px;
+}.kkk {
+    text-align: right; width: 1400px;
+}
+.sss {
+    margin-left: 25px;
+}

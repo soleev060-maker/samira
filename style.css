@@ -1,0 +1,44 @@
+
+    .center {
+        text-align: center;
+    }
+    table, td, tr{
+        border: 1px solid white;
+        text-align: center;
+        
+    }
+    .center{
+       padding-left: 20px;
+       padding-right: 20px;
+        text-align: center;
+    }
+    .sss {
+        border-radius: 20px;
+    }
+    td {
+        background-color: rgb(108, 206, 242);
+    }
+    .bbb {
+        color: blue;
+    }
+    .ccc {
+        color: palevioletred;
+        background-color: pink;
+    }
+    .aaa {
+        background-color: rgb(47, 255, 144);
+        color: rgb(24, 112, 4);
+    }
+    .mmm {
+        background-color: white;
+    }
+   
+    .lll {
+    width: 600px;
+    height: 15px;
+    background-color: rgb(246, 8, 8);
+    margin-left: 70px;
+}
+
+
+    

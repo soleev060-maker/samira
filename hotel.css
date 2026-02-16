@@ -1,0 +1,77 @@
+.lll {
+    display: inline-block;
+    width: 650px;
+    height: 10px;
+    background-color: white;
+    margin-left: 20px;
+}
+
+
+.sss {
+    display: inline-block;
+    width: 630px;
+    height: 20px;
+    background-color: burlywood;
+    margin-left: 30px;
+}
+.fff {
+    display: inline-block;
+    width: 630px;
+    height: 200px;
+    background-color: burlywood;
+    margin-left: 30px;
+}
+.ooo {
+    display: inline-block;
+    width: 650px;
+    height: 20px;
+    background-color: gainsboro;
+    margin-left: 20px;
+}
+.asd{
+    width: 700px;
+    height: 450px;
+    background-image: url(sky.jpg);
+}
+div {
+    margin-left: 12px;
+    padding-top: 10px;
+}
+.bbb {
+    display: inline-block;
+    width: 100px;
+    height: 150px;
+    background-color: rgb(151, 225, 255);
+    margin-left: 45px;
+}
+.qqq {
+    text-align: center;
+    
+}
+.iii {
+    display: inline-block;
+    width: 100px;
+    height: 150px;
+    background-color: rgb(151, 225, 255);
+    margin-left: 23px;
+    
+}
+.uuu {
+    display: inline-block;
+    background-color: burlywood;
+    background-image: url(../baba.PNG);
+    background-size: 300px 170px;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 245px;
+    height: 150px;
+    margin-left: 70px; 
+}
+.ppp {
+    background-image: url(ttt.png);
+    background-size: 1000px 170px;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 900px;
+    height: 150px;
+}

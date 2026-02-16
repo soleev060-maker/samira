@@ -1,0 +1,43 @@
+.ooo{
+    background-image: url(phone-call\ \(1\).png);
+    width: 80px;
+    height: 80px;
+    background-size: 80px 80px;
+}
+.aaa {
+    background-image: url(email\ \(1\).png);
+    width: 80px;
+    height: 80px;
+    background-size: 80px 80px; 
+}
+.eee {
+    background-image: url(location.png);
+    width: 80px;
+    height: 80px;
+    background-size: 80px 80px;
+    
+}
+.rrr {
+    background-image: url(clock.png);
+    width: 80px;
+    height: 80px;
+    background-size: 80px 80px;
+}
+.yyy {
+    background-image: url(jjj.png);
+    width: 500px;
+    height: 500px;
+    background-size: 500px 500px;
+    background-repeat: no-repeat;
+}
+.iii {
+    display: inline-block;
+}
+.uuu {
+    background-color: rgb(225, 224, 224);
+    width: 500px;
+    height: 500px;
+}
+.ppp {
+    margin-top: 50px;
+}

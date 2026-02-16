@@ -1,0 +1,21 @@
+.sss {
+    width: 500px;
+    height: 300px;
+    background:  url(eee.jpg) no-repeat red ;
+    background-size:contain; 
+    border: 30px solid yellow;
+    border-radius: 10px;
+}
+div {
+  height: 70px;
+  width: 90%;
+  border: 1px solid #4CAF50;
+  padding: 8px;
+}
+p {
+  border: 2px solid black;
+  outline: #4CAF50 solid 10px;
+  margin: auto;  
+  padding: 20px;
+  text-align: center;
+}

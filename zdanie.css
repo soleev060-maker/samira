@@ -1,0 +1,104 @@
+.lll {
+    display: inline-block;
+    background-color: red;
+    width: 80px;
+    height: 100px;
+    background-image: url(www.png);
+    background-size: 100px 170px;
+    background-position: center;
+
+}
+.sss {
+     display: inline-block;
+    background-color: blue;
+    width: 80px;
+    height: 100px;
+    background-image: url(www.png);
+    background-size: 100px 170px;
+    background-position: center;
+}
+.mmm {
+     display: inline-block;
+    background-color: rgb(70, 255, 101);
+    width: 80px;
+    height: 100px;
+    background-image: url(www.png);
+    background-size: 100px 170px;
+    background-position: center;
+
+}
+.fff {
+     display: inline-block;
+    background-color: yellow;
+    width: 80px;
+    height: 100px;
+    background-image: url(www.png);
+    background-size: 100px 170px;
+    background-position: center;
+}
+.ppp {
+     display: inline-block;
+    background-color: blueviolet;
+    width: 80px;
+    height: 100px;
+    background-image: url(www.png);
+    background-size: 100px 170px;
+    background-position: center;
+    
+}
+.ooo {
+     display: inline-block;
+    background-color: brown;
+    width: 80px;
+    height:100px;
+    padding-top: 100px;
+    background-image: url(ddd.png);
+    background-size: 150px 270px;
+    background-position: center;
+}
+.yyy {
+ display: inline-block;
+    background-color: pink;
+    width: 80px;
+    height: 100px;
+    margin-bottom: 90px;
+    background-image: url(www.png);
+    background-size: 100px 170px;
+    background-position: center;
+   
+}
+.asd{
+    width: 700px;
+    height: 410px;
+    background-image: url(aaa.jpg);
+}
+div {
+    margin-left: 12px;
+    padding-top: 10px;
+    
+
+}
+.kkk{
+    height: 15px;
+    width: 250px;
+    border: solid white 1px;
+    margin-left: 240px;
+    background-color: gainsboro;
+}
+.www{
+    height: 15px;
+    width: 230px;
+    border: solid white 1px;
+    margin-left: 250px;
+    background-color: gainsboro;
+}
+.opo{
+     height: 15px;
+    width: 210px;
+    border: solid white 1px;
+    margin-left: 260px;
+    background-color: gainsboro;
+}
+
+
+

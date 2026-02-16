@@ -1,0 +1,60 @@
+div{
+    display: inline-block
+}
+.ooo{
+    color: rgb(12, 12, 118);
+    padding-left: 400px;
+    background-color: red;
+
+}
+.uuu {
+    color: rgb(12, 12, 118);
+    padding-left: 400px;
+    background-color: red;
+}
+.ppp {
+    color: rgb(12, 12, 118);
+    padding-left: 400px;
+    background-color: red;
+}
+.iii {
+    width: 1500px;
+    height: 1000px;
+    background-image: url(doc.PNG);
+    background-size: 1500px 1000px;
+    background-repeat: no-repeat;
+    
+}
+.kkk {
+    text-align: right; width: 1400px;
+}
+button{
+    margin-left: 50px;
+    margin-bottom: 30px;
+    color: white;
+    background-color: rgb(93, 155, 255);
+    width: 100px;
+    height: 30px;
+
+}
+.ggg {
+    margin-top: 20px;
+}
+.nnn {
+    padding-top:  200px;
+    padding-left: 150px; 
+    color: white;
+}
+.qqq {
+    margin-left: 150px;
+    padding: 10px;
+    padding-left: 20px; 
+    padding-right: 20px; 
+    color: white; 
+    background-color: rgb(52, 116, 185); 
+    border-radius: 10px 10px;
+}
+.yyy {
+    border-radius: 8px;
+
+}
